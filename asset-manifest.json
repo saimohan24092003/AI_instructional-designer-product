@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6df600db.css",
+    "main.js": "/static/js/main.40239399.js",
+    "index.html": "/index.html",
+    "static/media/clamshell-logo.svg": "/static/media/clamshell-logo.8d2c97b33eb673190cd067a71e110bee.svg",
+    "main.6df600db.css.map": "/static/css/main.6df600db.css.map",
+    "main.40239399.js.map": "/static/js/main.40239399.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6df600db.css",
+    "static/js/main.40239399.js"
+  ]
+}
